@@ -1,0 +1,140 @@
+Crops
+{name: corn
+sub-section: popcorn corn
+feature: 
++early cross breeding
++can increase farm limit by a large margin
++less dependent on infrastructure
++side product can be used to feed animals
+-cant make alcohol properly (chicha)
+
+
+name: potato
+sub-section: yam
+feature: 
++early cross breeding
++can increase farm limit by a large margin
++processed potato is great wanderer food
++processed potato unlocks currency
+-weak early game for detoxiation.
+-costly tech.
+-needs to be processed to prevent spoilage
+-cant make alcohol properly until distillation
+
+name: rice
+sub-section: glutinous rice, millet
+feature:
++nutritious
++only needs threshing and cooking
++storage friendly
+-requires a lot of infrastructure and water works
+
+name: wheat
+sub-section: barley, rey
+feature:
++sheer amounts of versitility
++storage friendly
+-requires a lot of processes to be made into different products.
+
+name: Sorghum
+feature:
++great at alcohol making 
++storage friendly
+
+name: Fabaceae
+sub-section: soybean
+feature:
++act as vegetables
++makes oil
++soy products
++replenish land nutritients
+
+name: Solanaceae
+feature:
++act as vegetables
++synergy with potatoes
++increases spice and medical herb productions
+-detoxification needed
+
+name: Cucurbitaceae
+sub-section: watermelon
+feature:
++act as large amount of vegetables
+
+name: Brassicaceae
+feature:
++act as vegetables
++cureable
+
+name: Papyrus
+feature:
++papermaking
+
+name: Bamboo
+feature:
++recording medium
++sticks
+
+name:Sugarcane
+feature:
++sugarmaking
+
+name:Tea
+feature:
++drinks
+
+name:Coffee
+feature:
++drinks
+-long time to figure out
+
+name:Tobacco
+feature:
++consumeables
+-unhealthy
+
+name:Cocoa
+feature:
++drinks
++can be used as money}
+
+Techs & Traits{
+E.name:Plant Lore in Depth
+
+
+R.name:Main Crop Domestication
+feature:Domesticate a random main Crop
+
+R.name:Side Crop Domestication
+feature:Domesticate a random side Crop
+
+R.name:Hunting Partner
+feature:unlock wolfs Domestication
+
+R.name:Tiny Thiefs
+unlock since storage.
+feature:rat problems.
+(differently sized disaster, decrease health and the amount of stored food.) 
+
+R.name:Alliance with Predators
+feature:Domesticate cats.
+
+R.name:Tame the peaceful beasts.
+feature:Domestication of cows, horses, lama and sheeps.
+
+R.name:Avian Ally
+feature:Domestication of pigeons, eagle, chicken.
+
+E.name:irrigation
+feature:
+
+E.name:milling
+
+E.name:brewing
+
+E.name:crossbreeding
+
+E.name:detoxiation
+
+E.name:tools for harvest
+}

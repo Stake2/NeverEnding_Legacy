@@ -1,0 +1,26 @@
+My personal list of mods (without Magix, Homosapient Legacy, or mods that replace "data.js")
+
+Open the Legacy game, click on "Use mods", and replace the "data.js" text with the content between the separators:
+-----
+data.js
+mod.js
+https://brunosupremo.github.io/coal-mod/coal_mod.js
+https://raw.githubusercontent.com/pelletsstarPL/mrlucky974.github.io/refs/heads/main/NELMods/AgriculturaMod/mod.js
+https://raw.githubusercontent.com/pelletsstarPL/mrlucky974.github.io/refs/heads/main/NELMods/PhilosopherMod/mod.js
+https://raw.githubusercontent.com/pelletsstarPL/mrlucky974.github.io/refs/heads/main/NELMods/ShamanMod/mod.js
+https://cdn.jsdelivr.net/gh/Generatoror/hello-world@master/cookieLegacy.js
+https://therealohead.github.io/neverending-legacy-mods/mods/cremation.js
+https://therealohead.github.io/neverending-legacy-mods/mods/big-map.js
+https://therealohead.github.io/neverending-legacy-mods/mods/meditater.js
+https://therealohead.github.io/neverending-legacy-mods/mods/dont-eat-herbs.js
+https://therealohead.github.io/neverending-legacy-mods/mods/theism.js
+https://cdn.jsdelivr.net/gh/pelletsstarPL/Magixmod@master/EXtraOresFix.js
+https://cdn.jsdelivr.net/gh/pelletsstarPL/Magixmod@master/EXtraOres.js
+https://raw.githubusercontent.com/geekahedron/heritage/refs/heads/master/heritage.js
+https://raw.githubusercontent.com/MagixModLegacy/Magix/refs/heads/master/Speedy.js
+https://raw.githubusercontent.com/Adrthegamedev/LawsOfFood/refs/heads/master/lawsoffood.js
+-----
+
+Magix (Exclusive mod):
+https://raw.githubusercontent.com/plasma4/magix-fix/master/magixUtils.js
+https://raw.githubusercontent.com/plasma4/magix-fix/master/magix.js

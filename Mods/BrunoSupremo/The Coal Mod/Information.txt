@@ -1,0 +1,11 @@
+Github repository:
+https://github.com/BrunoSupremo/coal-mod
+
+Fandom:
+https://legacygame.fandom.com/wiki/The_Coal_Mod
+
+Mod category:
+General
+
+jsDelivr:
+https://brunosupremo.github.io/coal-mod/coal_mod.js

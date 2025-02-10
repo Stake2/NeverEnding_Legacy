@@ -1,0 +1,75 @@
+-----
+
+Lists of authors and their mods
+
+---
+
+Authors (13):
+Adrthegamedev
+Aeolus1229
+BrunoSupremo
+Chenxing61
+Geekahedron
+Genertoror
+Luckius_ (MrLucky974)
+Ohead
+Orteil
+PackerFan-Gamer
+PelletsstarPL
+Rubic (Paradoxrevolver)
+Shadowclaimer
+
+---
+
+Mods (25):
+
+Adrthegamedev:
+Laws of Food
+
+Aeolus1229:
+Fauna
+
+BrunoSupremo:
+1 - The Coal Mod
+2 - The Market Mod
+
+Chenxing61:
+Homosapient Legacy
+
+Geekahedron:
+The Heritage Mod
+
+Genertoror:
+Cookie Test
+
+Luckius_ (MrLucky974) (4):
+1 - Agricultura
+2 - Golems
+3 - Philosophers
+4 - Shaman
+
+Ohead (6):
+1 - Agriculture
+2 - Cremation
+3 - Custom Map Size
+4 - Don't Eat Herbs
+5 - Meditation
+6 - Theism
+
+Orteil:
+1 - Default Dataset
+2 - Peppers Mod Example
+
+PackerFan-Gamer:
+Legacy COOL
+
+PelletsstarPL (3):
+1 - Extra Ores
+2 - Magix
+3 - Speedy
+
+Rubic (Paradoxrevolver):
+Thot
+
+Shadowclaimer:
+Legacy Bees

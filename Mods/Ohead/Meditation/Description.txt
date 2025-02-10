@@ -1,0 +1,11 @@
+During the endgame, it is literally not possible to generate fast ticks without pausing the game. Meditaters can help with that.
+
+-----
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://therealohead.github.io/neverending-legacy-mods/mods/meditater.js

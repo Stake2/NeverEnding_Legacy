@@ -1,0 +1,8 @@
+Name:
+Shadowclaimer
+
+Github:
+https://github.com/Shadowclaimer
+
+Github repository:
+https://github.com/Shadowclaimer/LegacyBees/

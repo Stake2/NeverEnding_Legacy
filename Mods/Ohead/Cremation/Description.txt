@@ -1,0 +1,12 @@
+During the endgame, people start dying faster than they can be buried.
+Cremation is the solution! It's a mode for firekeepers, unlocked from ironworking.
+
+-----
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://therealohead.github.io/neverending-legacy-mods/mods/cremation.js

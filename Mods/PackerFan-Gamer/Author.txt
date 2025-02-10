@@ -1,0 +1,8 @@
+Name:
+PackerFan-Gamer
+
+Github:
+https://github.com/Packerfan-Gamer
+
+Github repository:
+https://github.com/Packerfan-Gamer/LegacyCOOLMod/

@@ -1,0 +1,21 @@
+Extra Ores is a mod made by the same creator of [Magix], which is [PelletsstarPL].
+You don't need this mod with Magix because Magix already has it.
+
+Magix: https://legacygame.fandom.com/wiki/Magix
+PelletsstarPL: https://github.com/pelletsstarPL
+
+Text from this page:
+https://file.garden/Xbm-ilapeDSxWf1b/--MAGIX--/OtherMods.html
+
+"Mod is dedicated to '''data.js''' (default dataset) since Magix has this content itself. You just need to paste these two links below data.js line. Adds some new ores to mine... And that's it, just new ores, some techs related to them. The "Fix" mod is to make rocky substrate actually have new ores in it."
+
+---
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://cdn.jsdelivr.net/gh/pelletsstarPL/Magixmod@master/EXtraOresFix.js
+https://cdn.jsdelivr.net/gh/pelletsstarPL/Magixmod@master/EXtraOres.js

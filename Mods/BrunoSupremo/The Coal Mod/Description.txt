@@ -1,0 +1,25 @@
+The Coal Mod is a mod by Bruno Mussoi Mendonça which adds a new crafting option for [Fire Pits] and a way to convert muddy water into normal water.
+
+Fire Pits:
+https://legacygame.fandom.com/wiki/Fire_Pit
+
+-
+
+Firepit crafting:
+Fire Pits can now be crafted using coal. A new mode is available for the [firekeeper] called "Coal fire" that will convert 5 sticks and 5 coal into 1 Fire Pit.
+
+firekeeper:
+https://legacygame.fandom.com/wiki/Firekeeper
+
+Filtering water:
+Artisans have access to a new mode called "Water filter" that will convert muddy water using sand and coal.
+
+---
+
+How to install the mod?
+
+To install The Coal Mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://brunosupremo.github.io/coal-mod/coal_mod.js

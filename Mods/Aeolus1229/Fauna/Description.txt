@@ -1,0 +1,16 @@
+The plan is:
+
+Add tameable horses and livestock to the game
+Add vegetarianism, veganism and carnivorism traits
+Add technologies so horses can be used to speed up some activites such as expedition and scouting
+Add technologies to create new food and resources from livestock such as milk and wool
+
+---
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://raw.githubusercontent.com/pelletsstarPL/legacy-mods/refs/heads/master/fauna.js

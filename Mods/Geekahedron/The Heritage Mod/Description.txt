@@ -1,0 +1,31 @@
+Developer:
+Geekahedron (https://github.com/geekahedron)
+
+Description:
+
+The Heritage Mod is a mod for NeverEnding Legacy created by Geekahedron.
+It features GUI changes and additional features.
+
+The GUI changes consist of unit categories to stay on separate lines, and sorts all [[Research|technologies]] into tiers.
+
+The additional features consist of creation of log fires, and cremation tech.
+
+-----
+
+Mod links:
+
+Github repository:
+https://github.com/geekahedron/heritage
+
+Mod JavaScript file:
+https://raw.githubusercontent.com/geekahedron/heritage/refs/heads/master/heritage.js
+
+---
+
+How to install the mod?
+
+To install The Market Mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://raw.githubusercontent.com/geekahedron/heritage/refs/heads/master/heritage.js

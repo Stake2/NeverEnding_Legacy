@@ -1,0 +1,41 @@
+Developer:
+Adrthegamedev (https://github.com/adrthegamedev)
+
+Local folder:
+"/Fandom/Laws of Food.png"
+
+Description:
+This mod gives additional options controlling the rules of food such as,
+
+* Eating herbs.
+* Eating Raw/Cooked/Cured Meat/Seafood.
+* Eating bread.
+* Eating fruit.
+
+PS: The singular meats/seafood each cost 0.5 influence, but it shows up as 0 ingame.
+
+This is useful for jobs using a certain type of food like herbs.
+
+The mod will not work on Internet Explorer.
+
+-----
+
+Mod links:
+
+Github repository:
+https://github.com/Adrthegamedev/LawsOfFood
+
+Mod JavaScript file:
+https://raw.githubusercontent.com/Adrthegamedev/LawsOfFood/refs/heads/master/lawsoffood.js
+
+-----
+
+How to install the mod?
+
+To install The Market Mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://raw.githubusercontent.com/Adrthegamedev/LawsOfFood/refs/heads/master/lawsoffood.js
+
+Do not delete "data.js" (unless you are using a mod that replaces data.js, such as Magix)

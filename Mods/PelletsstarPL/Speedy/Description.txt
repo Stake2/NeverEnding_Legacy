@@ -1,0 +1,23 @@
+Developers:
+PelletsstarPL and other devs from the DashNet Discord server
+
+Original release date:
+July 2019
+
+Latest version compatible with:
+Ver. 1 (Alpha Test Build 6)
+
+Speedy is a sub-mod of [[Magix]]. It allows you to not only pause, speed x1, and speed x30, which are the vanilla options for game speed, but also adds a new button with which you can pick the speed you want.
+
+Note by Moxievision:<br>
+I found a glitch in the mod where if you set the speed too high and hit space to pause, the speed up time thing goes up at the rate you set it to
+
+-----
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://raw.githubusercontent.com/MagixModLegacy/Magix/refs/heads/master/Speedy.js

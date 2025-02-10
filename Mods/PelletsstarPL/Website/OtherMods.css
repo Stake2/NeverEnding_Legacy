@@ -1,0 +1,25 @@
+#red-button {
+	background-image: url("bgLightRockRed.jpg");
+	width: 100px;
+	height: 100px;
+	color: white;
+	font-family: courier;
+}
+
+#green-button {
+	background-image: url("bgLightRockGreen.jpg");
+	width: 100px;
+	height: 100px;
+	color: white;
+	font-family: courier;
+}
+
+modinfo:nth-child(odd){
+	border-style:groove;
+	border-width:7px;
+	border-color:white;
+	display:block;
+	width:650px;
+	height:350px;
+	background:url('bgMidRockBlue.jpg');
+}

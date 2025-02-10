@@ -1,0 +1,11 @@
+Github repository:
+https://github.com/MagixModLegacy/Magix
+
+Fandom:
+https://legacygame.fandom.com/wiki/Speedy_Mod
+
+Mod category:
+Utility
+
+jsDelivr:
+https://cdn.jsdelivr.net/gh/MagixModLegacy/Magix@master/Speedy.js

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Owen's Mods</title>
+		<link href="https://hidingfromorteil.github.io/neverending-legacy-mirror/style.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&amp;display=swa">
+	</head>
+	<body>
+		<script src="./copyAllMods.js"></script>
+		<div id="dialogues" class="on">
+			<div class="fullCenteredOuter" style="height: 100%; position: absolute;">
+				<div class="fullCenteredInner" style="text-align: center;">
+					<div class="dialogue framed bgDark noClose fadeIn">
+						
+						<div class="fancyText title">Owen's Neverending Legacy Mods</div>
+						<div class="par fancyText">Any of these links can be copy/pasted or dragged into the mod menu</div>
+						<div class="divider"></div>
+
+						<div id="modlist"></div>
+
+						<div class="button" onclick="copyAllMods()">
+							Copy All Mods
+						</div>
+						<br>
+						<span style="color:chartreuse; display:none" id="copied-text">Copied!</span>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="./populate.js"></script>
+		<script src="./setLinkText.js"></script>
+	</body>
+</html>

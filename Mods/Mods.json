@@ -1,0 +1,547 @@
+{
+	"Numbers": {
+		"Total": 25,
+		"Per category": {
+			"General mods": 17,
+			"Utility mods": 5,
+			"Overhaul mods": 3
+		}
+	},
+	"Categories": {
+		"List": [
+			"General mods",
+			"Utility mods",
+			"Overhaul mods"
+		],
+		"Dictionary": {
+			"General mods": [
+				"Fauna",
+				"The Coal Mod",
+				"Cookie Test",
+				"Agricultura",
+				"Golems",
+				"Philosophers",
+				"Shaman",
+				"Agriculture",
+				"Cremation",
+				"Meditation",
+				"Theism",
+				"Default Dataset",
+				"Peppers Mod Example",
+				"Legacy COOL",
+				"Extra Ores",
+				"Thot",
+				"Legacy Bees"
+			],
+			"Utility mods": [
+				"Laws of Food",
+				"The Heritage Mod",
+				"Custom Map Size",
+				"Don't Eat Herbs",
+				"Speedy"
+			],
+			"Overhaul mods": [
+				"The Market Mod",
+				"Homosapient Legacy",
+				"Magix"
+			]
+		}
+	},
+	"List": [
+		"Laws of Food",
+		"Fauna",
+		"The Coal Mod",
+		"The Market Mod",
+		"Homosapient Legacy",
+		"The Heritage Mod",
+		"Cookie Test",
+		"Agricultura",
+		"Golems",
+		"Philosophers",
+		"Shaman",
+		"Agriculture",
+		"Cremation",
+		"Custom Map Size",
+		"Don't Eat Herbs",
+		"Meditation",
+		"Theism",
+		"Default Dataset",
+		"Peppers Mod Example",
+		"Legacy COOL",
+		"Extra Ores",
+		"Magix",
+		"Speedy",
+		"Thot",
+		"Legacy Bees"
+	],
+	"Dictionary": {
+		"Laws of Food": {
+			"Title": "Laws of Food",
+			"Author": {
+				"Name": "Adrthegamedev",
+				"Link": "https://github.com/adrthegamedev"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/Laws_of_Food_Mod",
+				"Mod category": "Utility"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Adrthegamedev/Laws%20of%20Food/Files/lawsoffood.js"
+			],
+			"Replaces data.js": false
+		},
+		"Fauna": {
+			"Title": "Fauna",
+			"Author": {
+				"Name": "Aeolus1229",
+				"Link": "https://github.com/Aeolus1229"
+			},
+			"Information": {
+				"Mod category": "General"
+			},
+			"Archive": {
+				"Archiver": {
+					"Name": "PelletsstarPL",
+					"Profile": "https://github.com/pelletsstarPL"
+				},
+				"Github repository": "https://github.com/pelletsstarPL/legacy-mods"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Aeolus1229/Fauna/Files/fauna.js"
+			],
+			"Additional files": {
+				"faunaManifest": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Aeolus1229/Fauna/Files/faunaManifest.js"
+			},
+			"Replaces data.js": false
+		},
+		"The Coal Mod": {
+			"Title": "The Coal Mod",
+			"Author": {
+				"Name": "BrunoSupremo",
+				"Link": "https://github.com/BrunoSupremo"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/The_Coal_Mod",
+				"Mod category": "General",
+				"jsDelivr": [
+					"https://brunosupremo.github.io/coal-mod/coal_mod.js"
+				]
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/BrunoSupremo/The%20Coal%20Mod/Files/coal_mod.js"
+			],
+			"Replaces data.js": false
+		},
+		"The Market Mod": {
+			"Title": "The Market Mod",
+			"Author": {
+				"Name": "BrunoSupremo",
+				"Link": "https://github.com/BrunoSupremo"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/The_Market_Mod_%26_Magix_utils_for_market",
+				"Mod category": "Overhaul",
+				"jsDelivr": [
+					"https://brunosupremo.github.io/market_mod/market_mod.js"
+				]
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/BrunoSupremo/The%20Market%20Mod/Files/market_mod.js"
+			],
+			"Additional files": {
+				"market_images": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/BrunoSupremo/The%20Market%20Mod/Files/market_images.png"
+			},
+			"Replaces data.js": false
+		},
+		"Homosapient Legacy": {
+			"Title": "Homosapient Legacy",
+			"Author": {
+				"Name": "Chenxing61",
+				"Link": "https://github.com/chenxing61"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/Homosapient_Legacy",
+				"Discord server": "https://discord.gg/7XcgfTp7V8",
+				"Mod category": "Overhaul",
+				"FileGarden": [
+					"https://file.garden/ZGd4-WLYvB6VkIdj/Homosapientlegacy0.4.js",
+					"https://file.garden/ZGd4-WLYvB6VkIdj/sapientcy.js"
+				]
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Chenxing61/Homosapient%20Legacy/Files/Homosapientlegacy0.4.js",
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Chenxing61/Homosapient%20Legacy/Files/sapientcy.js"
+			],
+			"Additional files": {
+				"H1sheet": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Chenxing61/Homosapient%20Legacy/Files/H1sheet.png"
+			},
+			"Replaces data.js": true
+		},
+		"The Heritage Mod": {
+			"Title": "The Heritage Mod",
+			"Author": {
+				"Name": "Geekahedron",
+				"Link": "https://github.com/geekahedron"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/The_Heritage_Mod",
+				"Mod category": "Utility"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Geekahedron/The%20Heritage%20Mod/Files/heritage.js"
+			],
+			"Additional files": {
+				"heritageModManifest": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Geekahedron/The%20Heritage%20Mod/Files/heritageModManifest.js"
+			},
+			"Replaces data.js": false
+		},
+		"Cookie Test": {
+			"Title": "Cookie Test",
+			"Author": {
+				"Name": "Genertoror",
+				"Link": "https://github.com/Generatoror"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/Cookie_mod",
+				"Mod category": "General",
+				"jsDelivr": [
+					"https://cdn.jsdelivr.net/gh/Generatoror/hello-world@master/cookieLegacy.js"
+				]
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Genertoror/Cookie%20Test/Files/cookieLegacy.js"
+			],
+			"Additional files": {
+				"cookieManifest": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Genertoror/Cookie%20Test/Files/cookieManifest.js",
+				"catManifest": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Genertoror/Cookie%20Test/Files/catManifest.js",
+				"sprits": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Genertoror/Cookie%20Test/Files/sprits.png"
+			},
+			"Replaces data.js": false
+		},
+		"Agricultura": {
+			"Title": "Agricultura",
+			"Author": {
+				"Name": "Luckius_ (MrLucky974)",
+				"Link": "https://github.com/MrLucky974"
+			},
+			"Information": {
+				"Mod category": "General"
+			},
+			"Archive": {
+				"Archiver": {
+					"Name": "PelletsstarPL",
+					"Profile": "https://github.com/pelletsstarPL"
+				},
+				"Github repository": "https://github.com/pelletsstarPL/mrlucky974.github.io/tree/main/NELMods/AgriculturaMod"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Luckius_%20(MrLucky974)/Agricultura/Files/mod.js"
+			],
+			"Additional files": {
+				"iconSheet": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Luckius_%20(MrLucky974)/Agricultura/Files/iconSheet.png"
+			},
+			"Replaces data.js": false
+		},
+		"Golems": {
+			"Title": "Golems",
+			"Author": {
+				"Name": "Luckius_ (MrLucky974)",
+				"Link": "https://github.com/MrLucky974"
+			},
+			"Information": {
+				"Mod category": "General"
+			},
+			"Archive": {
+				"Archiver": {
+					"Name": "PelletsstarPL",
+					"Profile": "https://github.com/pelletsstarPL"
+				},
+				"Github repository": "https://github.com/pelletsstarPL/mrlucky974.github.io/tree/main/NELMods/GolemsMod"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Luckius_%20(MrLucky974)/Golems/Files/mod.js"
+			],
+			"Additional files": {
+				"iconSheet": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Luckius_%20(MrLucky974)/Golems/Files/iconSheet.png"
+			},
+			"Replaces data.js": false
+		},
+		"Philosophers": {
+			"Title": "Philosophers",
+			"Author": {
+				"Name": "Luckius_ (MrLucky974)",
+				"Link": "https://github.com/MrLucky974"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/Philosophers",
+				"Mod category": "General"
+			},
+			"Archive": {
+				"Archiver": {
+					"Name": "PelletsstarPL",
+					"Profile": "https://github.com/pelletsstarPL"
+				},
+				"Github repository": "https://github.com/pelletsstarPL/mrlucky974.github.io/tree/main/NELMods/PhilosopherMod"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Luckius_%20(MrLucky974)/Philosophers/Files/mod.js"
+			],
+			"Replaces data.js": false
+		},
+		"Shaman": {
+			"Title": "Shaman",
+			"Author": {
+				"Name": "Luckius_ (MrLucky974)",
+				"Link": "https://github.com/MrLucky974"
+			},
+			"Information": {
+				"Mod category": "General"
+			},
+			"Archive": {
+				"Archiver": {
+					"Name": "PelletsstarPL",
+					"Profile": "https://github.com/pelletsstarPL"
+				},
+				"Github repository": "https://github.com/pelletsstarPL/mrlucky974.github.io/tree/main/NELMods/ShamanMod"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Luckius_%20(MrLucky974)/Shaman/Files/mod.js"
+			],
+			"Replaces data.js": false
+		},
+		"Agriculture": {
+			"Title": "Agriculture",
+			"Author": {
+				"Name": "Ohead",
+				"Link": "https://github.com/TheRealOhead/"
+			},
+			"Information": {
+				"Mod category": "General"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Ohead/Agriculture/Files/agriculture.js"
+			],
+			"Replaces data.js": false
+		},
+		"Cremation": {
+			"Title": "Cremation",
+			"Author": {
+				"Name": "Ohead",
+				"Link": "https://github.com/TheRealOhead/"
+			},
+			"Information": {
+				"Mod category": "General"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Ohead/Creamation/Files/cremation.js"
+			],
+			"Replaces data.js": false
+		},
+		"Custom Map Size": {
+			"Title": "Custom Map Size",
+			"Author": {
+				"Name": "Ohead",
+				"Link": "https://github.com/TheRealOhead/"
+			},
+			"Information": {
+				"Mod category": "Utility"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Ohead/Custom%20Map%20Size/Files/big-map.js"
+			],
+			"Replaces data.js": false
+		},
+		"Don't Eat Herbs": {
+			"Title": "Don't Eat Herbs",
+			"Author": {
+				"Name": "Ohead",
+				"Link": "https://github.com/TheRealOhead/"
+			},
+			"Information": {
+				"Mod category": "Utility"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Ohead/Don't%20Eat%20Herbs/Files/dont-eat-herbs.js"
+			],
+			"Replaces data.js": false
+		},
+		"Meditation": {
+			"Title": "Meditation",
+			"Author": {
+				"Name": "Ohead",
+				"Link": "https://github.com/TheRealOhead/"
+			},
+			"Information": {
+				"Mod category": "General"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Ohead/Meditation/Files/meditater.js"
+			],
+			"Replaces data.js": false
+		},
+		"Theism": {
+			"Title": "Theism",
+			"Author": {
+				"Name": "Ohead",
+				"Link": "https://github.com/TheRealOhead/"
+			},
+			"Information": {
+				"Mod category": "General"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Ohead/Theism/Files/theism.js"
+			],
+			"Replaces data.js": false
+		},
+		"Default Dataset": {
+			"Title": "Default Dataset",
+			"Author": {
+				"Name": "Orteil",
+				"Link": "https://orteil.dashnet.org/"
+			},
+			"Information": {
+				"Mod category": "General"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Orteil/Default%20Dataset/Files/data.js"
+			],
+			"Replaces data.js": false
+		},
+		"Peppers Mod Example": {
+			"Title": "Peppers Mod Example",
+			"Author": {
+				"Name": "Orteil",
+				"Link": "https://orteil.dashnet.org/"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/Peppers_(Example_mod_by_Orteil)",
+				"Mod category": "General"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Orteil/Peppers%20Mod%20Example/Files/mod.js"
+			],
+			"Replaces data.js": false
+		},
+		"Legacy COOL": {
+			"Title": "Legacy COOL",
+			"Author": {
+				"Name": "PackerFan-Gamer",
+				"Link": "https://github.com/Packerfan-Gamer"
+			},
+			"Information": {
+				"Github repository": "https://github.com/Packerfan-Gamer/LegacyCOOLMod",
+				"Fandom": "https://legacygame.fandom.com/wiki/Legacy_COOL",
+				"Mod category": "General"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PackerFan-Gamer/Legacy%20COOL/Files/LegacyCOOLmod1.js"
+			],
+			"Additional files": {
+				"PS4jxIK": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PackerFan-Gamer/Legacy%20COOL/Files/PS4jxIK.png"
+			},
+			"Replaces data.js": false
+		},
+		"Extra Ores": {
+			"Title": "Extra Ores",
+			"Author": {
+				"Name": "PelletsstarPL",
+				"Link": "https://github.com/pelletsstarPL"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/Extra_Ores",
+				"Mod category": "General"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PelletsstarPL/Extra%20Ores/Files/EXtraOresFix.js",
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PelletsstarPL/Extra%20Ores/Files/EXtraOres.js"
+			],
+			"Replaces data.js": false
+		},
+		"Magix": {
+			"Title": "Magix",
+			"Author": {
+				"Name": "PelletsstarPL",
+				"Link": "https://github.com/pelletsstarPL"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/Magix",
+				"Mod category": "Overhaul"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PelletsstarPL/Magix/Files/magixUtils.js",
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PelletsstarPL/Magix/Files/magix.js"
+			],
+			"Replaces data.js": false
+		},
+		"Speedy": {
+			"Title": "Speedy",
+			"Author": {
+				"Name": "PelletsstarPL",
+				"Link": "https://github.com/pelletsstarPL"
+			},
+			"Information": {
+				"Github repository": "https://github.com/MagixModLegacy/Magix",
+				"Fandom": "https://legacygame.fandom.com/wiki/Speedy_Mod",
+				"Mod category": "Utility",
+				"jsDelivr": [
+					"https://cdn.jsdelivr.net/gh/MagixModLegacy/Magix@master/Speedy.js"
+				]
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PelletsstarPL/Speedy/Files/Speedy.js"
+			],
+			"Replaces data.js": false
+		},
+		"Thot": {
+			"Title": "Thot",
+			"Author": {
+				"Name": "Rubic (Paradoxrevolver)",
+				"Link": "https://github.com/paradoxrevolver"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/Thot_Mod",
+				"Mod category": "General",
+				"Original mod": "https://raw.githubusercontent.com/paradoxrevolver/neverending-legacy-mods/master/thot.js",
+				"Fixed mod": "https://file.garden/Xbm-ilapeDSxWf1b/thotFixed.js"
+			},
+			"Archive": {
+				"Archiver": {
+					"Name": "PelletsstarPL",
+					"Profile": "https://github.com/pelletsstarPL",
+					"Github.io": "https://pelletsstarpl.github.io/"
+				},
+				"Github repository": "https://github.com/pelletsstarPL/neverending-legacy-mods"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Rubic%20(Paradoxrevolver)/Thot/Files/thotFixed.js"
+			],
+			"Additional files": {
+				"thotModIconSheet": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Rubic%20(Paradoxrevolver)/Thot/Files/thotModIconSheet.png"
+			},
+			"Replaces data.js": false
+		},
+		"Legacy Bees": {
+			"Title": "Legacy Bees",
+			"Author": {
+				"Name": "Shadowclaimer",
+				"Link": "https://github.com/Shadowclaimer"
+			},
+			"Information": {
+				"Fandom": "https://legacygame.fandom.com/wiki/Legacy_Bees_Mod",
+				"Mod category": "General",
+				"jsDelivr": [
+					"https://cdn.jsdelivr.net/gh/Shadowclaimer/LegacyBees@master/",
+					"https://cdn.jsdelivr.net/gh/Shadowclaimer/LegacyBees@master/modBees.js"
+				],
+				"jsDelivr repository": "https://www.jsdelivr.com/package/gh/Shadowclaimer/LegacyBees"
+			},
+			"JavaScript files": [
+				"https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Shadowclaimer/Legacy%20Bees/Files/modBees.js"
+			],
+			"Additional files": {
+				"bhNRZSv": "https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Shadowclaimer/Legacy%20Bees/Files/bhNRZSv.png"
+			},
+			"Replaces data.js": false
+		}
+	}
+}

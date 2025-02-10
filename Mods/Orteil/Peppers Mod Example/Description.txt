@@ -1,0 +1,54 @@
+*Peppers* is a mod made by *Orteil* to showcase the modding capability of NeverEnding Legacy. This simple mod adds pepper, hot sauce (along with a recipe using the Artisan unit), a new [research] tech called Hot sauce preparing and a new [trait] Hot sauce madness.
+
+research: https://legacygame.fandom.com/wiki/Research
+trait: https://legacygame.fandom.com/wiki/Traits
+
+-
+
+Resources:
+
+Pepper:
+Hot peppers can be obtained by [Gatherers] on grass. Like any other food they can decay, with a 50% chance of turning into spoiled food.
+
+Gatherers: https://legacygame.fandom.com/wiki/Gatherer
+
+Hot sauce:
+Hot sauce is crafted by the Artisan with a new mode called "Make hot sauce", unlockable by discovering Hot sauce preparing. It converts 3 hot peppers and 3 herbs into 1 hot sauce.
+
+-
+
+Techs:
+
+Hot sauce preparing:
+Hot sauce preparing is a new research tech that can be unlocked at a cost of 10 [Insight]. You need to unlock the Cooking tech first.
+
+Insight: https://legacygame.fandom.com/wiki/Insight
+
+-
+
+Traits:
+
+Hot sauce madness:
+Hot sauce madness is a new trait that amplifies the benefits of eating hot sauce by doubling the happiness given when eating hot sauce. This trait takes an average of 20 years to appear once the conditions are met (i.e. unlocking the Hot sauce preparing tech).
+
+-----
+
+Notes:
+
+Peppers was made to help people to understand how to mod NeverEnding Legacy, by adding new features. It's a sort of template for modders to learn how to make a mod. You can also check [data.js] to have more informations about how to make a mod.
+
+data.js:
+http://orteil.dashnet.org/legacy/data.js
+
+-----
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://orteil.dashnet.org/legacy/mod.js
+
+Or simply:
+mod.js

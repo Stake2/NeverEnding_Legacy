@@ -1,0 +1,11 @@
+My good pal Damien was unhappy about the size of the map, so I went ahead and gave control of map size to the user.
+
+-----
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://therealohead.github.io/neverending-legacy-mods/mods/big-map.js

@@ -1,0 +1,237 @@
+Summary:
+
+The latest release is release 54, with the current beta being release 55B. You can find the website here. The website can also be found in-game if the mods are installed. Magix is currently the biggest mod for NeverEnding Legacy. 
+
+-
+
+NeverEnding Legacy Magix logo (visible after loading Magix).
+
+File:
+"/Fandom/Magix_modding_quote.png"
+
+-
+
+The star of the update!
+
+File:
+"/Fandom/Temple_of_the_Paradise.png"
+
+-----
+
+Installation:
+
+Beta (broken) release:
+
+In order to play with Magix, click the blue button on the top right that says in white lettering "Use Mods", then delete the line(s) of code that exist there ("[Data.js]" along with any other mod that has been previously installed).
+Once removed, replace the code with these two links below (Paste both links. Order is important, so do not change it):
+
+Data.js: https://orteil.dashnet.org/legacy/data.js
+
+https://file.garden/Xbm-ilapeDSxWf1b/MagixUtilsR55B.js
+https://file.garden/Xbm-ilapeDSxWf1b/MagixOfficialR55B.js
+
+Local folder:
+"/Broken version (don't use)/"
+
+Please be aware that the links above are official but broken (with some issues completely freezing the game).
+For example, obtaining some traits will freeze the game.
+In particular, the game will break using the links above if you obtain the Bookwriting tech once the game ticks to the next year.
+
+---
+
+Fixed release:
+
+A fan of Magix has fixed a variety of issues with the mod and the fixed links are given below:
+
+https://file.garden/ZmatEHzFI2_QBuAF/magixUtils.js
+https://file.garden/ZmatEHzFI2_QBuAF/magix.js
+
+Paste the two lines above in order to load the game.
+
+Local folder:
+"/Fixed version (do use)/"
+
+-
+
+If you are ALREADY on a save with Magix and wish to use the fixed version, paste the following script into the console:
+
+javascript:localStorage.setItem("legacySave-alpha",b64EncodeUnicode(escape(unescape(b64DecodeUnicode(G.Export())).replace("Xbm-ilapeDSxWf1b/MagixOfficialR55B.js","ZmatEHzFI2_QBuAF/magix.js").replace("Xbm-ilapeDSxWf1b/MagixUtilsR55B.js","ZmatEHzFI2_QBuAF/magixUtils.js")))),onbeforeunload=null,location.reload()
+
+-
+
+Proof of the mod creator's willingness for mods of his mod:
+
+pellesstarPL the Grand Magixian (05/29/2024 04:03 PM):
+Plus I find many researches as actual nonsense. Feel free to mod my mod lol
+(Discord screenshot)
+
+File:
+"/Fandom/Magix_modding_quote.png"
+
+---
+
+Previous Release:
+
+The links below may be able to load the mod.
+However, using these links have been known to freeze the game even more than the other ones, so it is not recommended to use them.
+
+https://file.garden/Xbm-ilapeDSxWf1b/MagixUtils.js
+https://file.garden/Xbm-ilapeDSxWf1b/MagixOfficial.js
+
+Local folder:
+"/Previous version/"
+
+If you wish to add any other mods alongside Magix, please research to make sure the mod you wish to add is compatible with Magix.
+Some examples of compatible mods are the [Market Mod], [Speedy Mod], and [Extra Ores].
+If the mod is compatible, make sure it is added after the Magix mod file.
+Otherwise, you may get an error message (there are some cases where this works correctly, however).
+
+Market Mod (BrunoSupremo): https://legacygame.fandom.com/wiki/The_Market_Mod_%26_Magix_utils_for_market
+Extra Ores (PelletsstarPL): https://legacygame.fandom.com/wiki/Extra_Ores
+Speedy Mod (PelletsstarPL): https://legacygame.fandom.com/wiki/Speedy_Mod
+
+-----
+
+Additions (long text):
+
+Second race (very late game content)
+Trials
+
+Collectable Particles:
+Essences
+Brews
+
+Buildings (https://legacygame.fandom.com/wiki/Buildings):
+Wizard Towers
+Prisons
+Farms (https://legacygame.fandom.com/wiki/Farms)
+Churches
+Cathedrals
+and many more
+
+Dimensions:
+Overworld (vanilla world) (https://legacygame.fandom.com/wiki/Overworld)
+Plain Island (https://legacygame.fandom.com/wiki/Plain_Island)
+Underworld (https://legacygame.fandom.com/wiki/Underworld)
+Paradise (https://legacygame.fandom.com/wiki/Paradise)
+Ancestors (https://legacygame.fandom.com/wiki/Ancestors)
+
+Jobs:
+Florist
+Painter
+Globetrotter
+Druid
+Wizard (requires one elder)
+Alchemist
+Artisan of Juice + Pyro-artisan (Juice: https://legacygame.fandom.com/wiki/Juice)
+Archeologist
+Mana Maker
+Guard
+Poet
+Mediator
+Lawyer
+Many more
+
+Wonders:
+Temple of Deities
+Pagoda of Democracy
+Temple of The Paradise
+Complex of Dreamers
+Fortress of Cultural Legacy
+Fortress of Magicians (https://legacygame.fandom.com/wiki/Fortress_of_Magicians)
+The Cemetarium
+Temple of the Paradise/Ancestors
+and way more
+
+Traits (https://legacygame.fandom.com/wiki/Traits_(Magix)):
+God's traits - Unlock Paradise to get them
+Devil's traits - During the game you can obtain 6 out of 18. You need to get 6 Traits to continue the adventure. 17 of 18 traits are power-downs. The remaining one (No. 9) does nothing.
+Devil's traits: https://legacygame.fandom.com/wiki/Devil%27s_traits
+
+Evolution of the minds (https://legacygame.fandom.com/wiki/Essentials_II)
+Culture of the Afterlife/Beforelife
+The God's Call/Ancestor's Call
+Ungrateful Tribe
+Trends
+Variations of existing traits
+Patrons
+
+Miscellaneous:
+Dyes
+Paper
+Books
+Flour
+Metal weapons + Armor
+Arrows
+Crossbows
+Fishing nets
+Crafting/Carving/Filtering/Painting
+
+Foods:
+Vegetables
+Bread
+Honey + Honeycomb (https://legacygame.fandom.com/wiki/Honey)
+Meals
+Cloudy Water
+Juice (https://legacygame.fandom.com/wiki/Juice)
+Exotic Fruits & Juice
+
+Policies (https://legacygame.fandom.com/wiki/Policies):
+Juice and honey policies
+Seraphin Policies
+Sleepy Insight
+
+New insight ll, culture ll, faith II and influence ll (https://legacygame.fandom.com/wiki/Essentials_II)
+
+Vanilla improvements:
+Blacksmiths + (metal weapons and armor)
+Boats
+Thieves + Prisoners
+Water filtering
+Giving upkeep cost to furnaces and kilns
+Discovering [techs] (especially in late game) that changes visual look of [units].
+
+Techs: https://legacygame.fandom.com/wiki/Research
+Units: https://legacygame.fandom.com/wiki/Units
+
+Late game features:
+- Essentials II (Obtain one of the special traits to unlock this):
+--- Pantheon (see Seraphin policies for more info)
+--- Theme changer (https://legacygame.fandom.com/wiki/Theme_changer)
+	
+Achievements (https://legacygame.fandom.com/wiki/Achievements_(Magix)):
+All Magix wonders achievements.
+Some achievements do not require any wonders or ascending, such as obtaining 100 [technologies] or having a population of 1M [people].
+Several of them have more bonuses than just extra [fast ticks]. They can gain you starting [insight], for instance.
+
+technologies: https://legacygame.fandom.com/wiki/Research
+people: https://legacygame.fandom.com/wiki/Population
+fast ticks: https://legacygame.fandom.com/wiki/Fast_ticks
+insight: https://legacygame.fandom.com/wiki/Insight
+
+-----
+
+Changes:
+
+Ores:
+Pyrite added
+Platinum ore added
+Nickel ore added
+Cobalt added
+
+Wonders:
+The Mausoleum has an Evolving mechanic
+
+The Mausoleum: https://legacygame.fandom.com/wiki/The_Mausoleum
+Evolving: https://legacygame.fandom.com/wiki/Evolving
+
+-----
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Replace the line of code saying "data.js" with:
+https://file.garden/ZmatEHzFI2_QBuAF/magixUtils.js
+https://file.garden/ZmatEHzFI2_QBuAF/magix.js

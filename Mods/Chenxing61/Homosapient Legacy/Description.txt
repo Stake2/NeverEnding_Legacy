@@ -1,0 +1,68 @@
+Author:
+Chenxing61
+https://github.com/chenxing61
+
+Original release date:
+22/05/2023
+
+Homosapient Legacy is a gameplay overhaul mod for NeverEnding Legacy.
+
+It aims to make a civ-builder that leans toward realism. With history being the main inspiration.
+
+The mod is fully supported by the current NVEL version, and the developer is active. But compatibility with other content focused mod is not planned. 
+
+-----
+
+Implemented content:
+New map resources such as Avians, Costal Critters, Lake and Rivers
+Resources such as eggs, torches, medical herbs and spices
+A more expansive start from the original game (including more starting techs, increased population and Origins, which is random each time you start)
+More mechanics such as resource depletion, logistics, and experiences
+New technologies such as drawing, writing and boiling
+Dynamic trait system which includes random events
+Major tech tree cost and dependencies overhaul
+And a ton of tweaks of balancing
+
+Different modes for gatherers in the mod:
+
+Local folder:
+"/Fandom/Modes.png"
+
+-----
+
+Planned content:
+Post-mausoleum techs
+Get tech from different paths of historical civilization
+Agricultural and Industrial stuff
+Modern world tech (Late game)
+Some sort of lore
+A new system: 'Order'
+A possibility get eaten by wild animals
+
+-----
+
+Contact:
+Discord server of the mod:
+https://discord.gg/7XcgfTp7V8
+
+-----
+
+Mod links:
+
+Demo version link:
+https://file.garden/ZGd4-WLYvB6VkIdj/Homosapientlegacy.js
+
+Current builds link (0.4):
+https://file.garden/ZGd4-WLYvB6VkIdj/Homosapientlegacy0.4.js
+https://file.garden/ZGd4-WLYvB6VkIdj/sapientcy.js
+
+-----
+
+How to install the mod?
+
+To install Homosapient Legacy, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Replace the line of code saying "data.js" with:
+https://file.garden/ZGd4-WLYvB6VkIdj/Homosapientlegacy0.4.js
+https://file.garden/ZGd4-WLYvB6VkIdj/sapientcy.js

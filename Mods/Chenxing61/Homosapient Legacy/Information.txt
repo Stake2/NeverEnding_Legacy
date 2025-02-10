@@ -1,0 +1,17 @@
+Github repository:
+https://github.com/chenxing61/Homosapient-Legacy
+
+Fandom:
+https://legacygame.fandom.com/wiki/Homosapient_Legacy
+
+Discord server:
+https://discord.gg/7XcgfTp7V8
+
+Mod category:
+Overhaul
+
+FileGarden:
+https://file.garden/ZGd4-WLYvB6VkIdj/Homosapientlegacy0.4.js, https://file.garden/ZGd4-WLYvB6VkIdj/sapientcy.js
+
+Replaces data.js:
+Yes

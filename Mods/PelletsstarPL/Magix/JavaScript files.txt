@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PelletsstarPL/Magix/Files/magixUtils.js
+https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PelletsstarPL/Magix/Files/magix.js

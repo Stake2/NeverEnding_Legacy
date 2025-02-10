@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Genertoror/Cookie%20Test/Files/cookieManifest.js
+https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Genertoror/Cookie%20Test/Files/catManifest.js
+https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/Genertoror/Cookie%20Test/Files/sprits.png

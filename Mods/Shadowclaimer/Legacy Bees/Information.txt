@@ -1,0 +1,14 @@
+Github repository:
+https://github.com/Shadowclaimer/LegacyBees/
+
+Fandom:
+https://legacygame.fandom.com/wiki/Legacy_Bees_Mod
+
+Mod category:
+General
+
+jsDelivr repository:
+https://www.jsdelivr.com/package/gh/Shadowclaimer/LegacyBees
+
+jsDelivr:
+https://cdn.jsdelivr.net/gh/Shadowclaimer/LegacyBees@master/, https://cdn.jsdelivr.net/gh/Shadowclaimer/LegacyBees@master/modBees.js

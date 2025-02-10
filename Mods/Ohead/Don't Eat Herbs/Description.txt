@@ -1,0 +1,12 @@
+The only unavoidable way happiness can go down is eating herbs.
+Why would people eat something they don't like when cured seafood and cooked meat exist?
+
+-----
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://therealohead.github.io/neverending-legacy-mods/mods/dont-eat-herbs.js

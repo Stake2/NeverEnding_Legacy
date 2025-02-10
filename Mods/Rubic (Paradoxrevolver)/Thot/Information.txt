@@ -1,0 +1,14 @@
+Github repository:
+https://github.com/paradoxrevolver/neverending-legacy-mods
+
+Fandom:
+https://legacygame.fandom.com/wiki/Thot_Mod
+
+Mod category:
+General
+
+Original mod:
+https://raw.githubusercontent.com/paradoxrevolver/neverending-legacy-mods/master/thot.js
+
+Fixed mod:
+https://file.garden/Xbm-ilapeDSxWf1b/thotFixed.js

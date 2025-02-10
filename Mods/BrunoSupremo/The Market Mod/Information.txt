@@ -1,0 +1,11 @@
+Github repository:
+https://github.com/BrunoSupremo/market_mod
+
+Fandom:
+https://legacygame.fandom.com/wiki/The_Market_Mod_%26_Magix_utils_for_market
+
+Mod category:
+Overhaul
+
+jsDelivr:
+https://brunosupremo.github.io/market_mod/market_mod.js

@@ -1,0 +1,8 @@
+Name:
+Rubic (Paradoxrevolver)
+
+Github:
+https://github.com/paradoxrevolver
+
+Github repository:
+https://github.com/paradoxrevolver/neverending-legacy-mods

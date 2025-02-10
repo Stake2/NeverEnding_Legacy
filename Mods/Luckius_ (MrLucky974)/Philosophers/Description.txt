@@ -1,0 +1,17 @@
+Philosophers is a mod made by Luckius_ that focus on [Insight] generation. Just like the [Thot mod], Philosophers adds an improved version of the [Dreamer] called the philosopher that produces x3.5 more [Insight].
+
+Insight: https://legacygame.fandom.com/wiki/Insight
+Thot mod: https://legacygame.fandom.com/wiki/Thot_Mod
+Dreamer: https://legacygame.fandom.com/wiki/Dreamer
+
+This mod also adds a new tech -> Cultivation : adds 50 more Inspiration, philosophers produces 75% more Insight.
+
+---
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://raw.githubusercontent.com/pelletsstarPL/mrlucky974.github.io/refs/heads/main/NELMods/PhilosopherMod/mod.js

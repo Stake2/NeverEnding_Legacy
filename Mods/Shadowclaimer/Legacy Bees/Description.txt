@@ -1,0 +1,45 @@
+Legacy Bees, made by Shadowclaimer, adds bee-related elements to the game. The mod adds 3 new [resources] and 1 new unlockable [tech].
+
+resources: https://legacygame.fandom.com/wiki/Resources
+tech: https://legacygame.fandom.com/wiki/Research
+
+-
+
+Resources:
+
+Honeycomb:
+*Honeycomb* is a new resource that can be [gathered]. It is considered a source of food and has 50% chance of turning into spoiled food when [decaying].
+
+gathered: https://legacygame.fandom.com/wiki/Gatherer
+decaying: https://legacygame.fandom.com/wiki/Decaying
+
+Bees:
+'*Bees* are a resource obtainable by the Artisan after unlocking *Beekeeping*. You can convert them into 3 honeycombs with the Artisan by using the mode Make honeycomb'.
+
+Honey:
+*Honey* is a non-obtainable resource because there are no recipe available. It has a *95%* chance of not rotting.
+
+-
+
+Techs:
+
+Beekeeping:
+*Beekeeping* is the only tech from this mod. It requires 10 [Insight] and the Cooking tech to be unlocked. This tech adds a new option to the Artisan, making it able to produce *honeycomb* from *bees*.
+
+Name: Beekeeping
+Unlocks: *Make honeycomb*
+Upgrades: None
+Conditions: Cooking
+Cost: 10 insight
+
+Insight: https://legacygame.fandom.com/wiki/Insight
+
+---
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://raw.githubusercontent.com/Shadowclaimer/LegacyBees/refs/heads/master/modBees.js

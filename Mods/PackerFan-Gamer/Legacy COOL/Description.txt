@@ -1,0 +1,31 @@
+Legacy COOL is a mod. In order to play with "Legacy COOL" click the blue button on the top right that says in white lettering "Use Mods" then underneath the line of code saying "Data.js" and put:
+https://github.com/Packerfan-Gamer/LegacyCOOLMod/blob/master/LegacyCOOLmod1.js
+
+Data.js:
+https://orteil.dashnet.org/legacy/data.js
+
+Legacy COOL is no longer supported, and won't be receiving any more official updates.
+
+Additions:
+Grain and Wheat
+Bread
+Mass Graves
+Cemeteries
+Berries
+Juice
+
+Developer:
+PackerFan-Gamer
+
+Latest Version Compatible With:
+V1 (Alpha test patch 6)
+
+---
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://github.com/Packerfan-Gamer/LegacyCOOLMod/blob/master/LegacyCOOLmod1.js

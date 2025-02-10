@@ -1,0 +1,20 @@
+Cookie mod is a simple test mod that adds cookies, as well as some other minor features. These include 2 items, 3 technologies, and 1 trait.
+
+Developer:
+Generatoror
+
+Original Release Date:
+March 2017
+
+Latest Version Compatible With:
+Vs. 1 (Alpha Test Build 6)
+
+---
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://cdn.jsdelivr.net/gh/Generatoror/hello-world@master/cookieLegacy.js

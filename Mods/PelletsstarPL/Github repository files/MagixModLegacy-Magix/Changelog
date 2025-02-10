@@ -1,0 +1,724 @@
+=================================================================================================================================================================================================================================
+ 
+                                                     ✚          ✚         •            ✚✚✚✚✚✚✚✚            ✦            ✚       ✚
+                                                     ✚✚       ✚✚        • •          ✚                       ✦             ✚      ✚
+                                                     ✚ ✚     ✚ ✚       •   •        ✚                        ✦              ✚    ✚
+                                                     ✚  ✚   ✚  ✚       •   •        ✚                        ✦              ✚    ✚
+                                                     ✚   ✚✚✚   ✚      •••••••      ✚     ✚✚✚✚✚✚           ✦               ✚✚✚
+                                                     ✚          ✚      •      •      ✚           ✚            ✦              ✚    ✚
+                                                     ✚          ✚     •       •       ✚         ✚             ✦             ✚      ✚
+                                                     ✚          ✚     •       •        ✚✚✚✚✚✚✚              ✦            ✚       ✚
+=================================================================================================================================================================================================================================
+                                                          U   P   D   A   T   E                   L  O  G
+							  
+							  
+								
+								
+							  
+							  Fixed many descriptions
+							  Besides closed beta changes:
+							  	increased chance to get rules of food and policies traits
+							  	changed sounds of buying techs
+							  	reworked farms for human race
+									- Replaced "Farms in the new land" tech with "Agriculture"
+									- Moved food farms from Plain Island to Overworld
+									- Now farms are available at earlier stage of the game
+									- Remove berries and watermelons entirely from the game.
+									- Removed "Berry Masterry" tech
+									- Replaced God's trait 2 effect
+									- replaced Watermelon farm with vegetable farm
+									- improved magic plants farm sprites
+									- moved Windmills to crafting unit category
+								-Added ability to rename your Plain Island.
+								-Reworked Artisan of juice and Healers(human race)
+									-removed subunits for healers and added these to units as a modes
+								-Elder elves now live longer, but toggling workforce on them will harm your happiness. Adult elves ages up to elder slower. 
+								 However at some point they will work slower despite of happiness level
+								-changed mechanics for exploration units. Now it is capped but researching can increase or even remove exploration cap for your civilization.
+								-Renamed firework launcher
+								-Replaced crossbow belts with arrows to support both bows and crossbows
+								-city planning now requires new Basic mapping tech
+								-Health is now capped just like happiness
+								-TODO: make 2nd levels for root wonders and increase their bonus
+								-Florist is now unlockable with plant lore II knowledge which requires herbalism first(knowledge is a tech that works like a trait)
+								-Scavenging for c2 is more efficient: 1/15 --> 1/12
+								-changed recipes for kilns
+								-Replaced skull of wild death with new... dark wonder
+								-pyrite now decays as is supposed to
+								-changed message for year 90 when you are before first ascension(human race)
+								-hunter in bow and crossbow hunting modes now uses arrows just like orteil planned to do(i made your another dream come true lol)
+								-Now artisan crafts bows and crossbows in craft bows mode but for crafting arrows use a new mode added that is unlockable with bows research
+							  
+							  Halloween:
+							  Added warning about upcoming big update
+							  Both love and spookiness levels require a little bit more xp than before
+							  Added Spookiness. Has the same mechanics as Love for Valentine's day seasonal content.
+							  Added spirit summoners and two techs related to them
+							  Sadly there is no Halloween wonder but there is achievement for reaching level 10... or maybe there is more than one?
+							  Added vampirism. If you got necrophagy... you have chance for that one.
+							  Added some new halloween content.
+							  
+							  Note I: Halloween techs/traits only affect the game during Halloween. After the event it turns back to normal.
+							  Note II:If you reach level 10 you can get new achievement and bonus that will persist through several runs even after the Halloween.
+							  "stacks" can be "recharged" during next halloween. While event occurs you won't lose those stacks. The same mechanic applies
+							  to Valentines and Christmas starting bonuses.
+							  -------------
+							  CB3: Painter for C1 now is unlockable after first ascension with artistic thinking trait. It'd be pointless to keep him unlocked
+							  if crafting dyes before first ascension is impossible.
+							  CB3: School of alchemy: balance changed
+							  CB3: Remove Child Alchs , education cycle policy for school of alch and allowance for children to learn alch
+							  CB3: Changed balance for hardened barns.
+							  CB3: Changed color for Moderation & Caretaking trait names
+							 CB3: Renamed everything for human race. Mostly I made raw ID's starting with low case instead of a capital letter.
+							 CB3: Renamed Essence of the holiness to holy essence and few techs
+							  CB3: Now soldiers defeats stat won't appear at new year/century messages till at least battling thieves isn't unlocked
+							  CB3: ToDo: Make auras actually work and affect gameplay
+							  CB3: New race = new ores unique for this race
+							  CB3: Removed the chosen one and moved just plain lucky to Overall section as well as God complex and it's over 9000.
+							  CB3: Add overall section for achievements. Those are gonna be achievments that can be done regardless of race you are currently playing with. 
+							  
+							  
+							  
+                                                          CB3: Now you can know how much water you have on the world. As land has uses water will get more ways of use in next mod updates 
+							  CB3: Limit per n researches has been removed from exploration units and replaced with other mechanic.
+							  CB3: Fixed chranos balance
+							  CB3: Empowerments renamed to Auras
+							  CB2: Root traits and culture of the afterlife trait buffed - they have bigger chance to be adopted.
+							 CB2: Changed balance for clothiers and added knitting early-game tech
+							 CB2:Made more use of and can be found more often
+							  CB2: Some icon improvements by DragonSlayr15001. Thanks dude. Also thanks to him ground stone tools trait got a new icon.
+							  CB2: Temple of heaven is now step-by-step building meaning that ascending by it is no longer possible and finishing
+							  this wonder will award you an achievement after performing a final step.
+							  CB2: Now switching between tabs will play a sound
+							  CB2: Updated "updates" tab.
+							  CB2: If you play with new race and after refresh you see it changed into human race then page will automatically refresh till C2 content will load and vice versa.
+							  CB2: Infos in top left about units are now more readable. Big numbers mean active, smaller below them mean the queue.
+							  CB2: Removed flowers and dyes tab
+							  CB2: Added Pine good for boreal forests
+							  CB2: Removed sub-flower resources for good causing also changes for artisan(human race) and hovel of colours
+							CB2:  Balanced happiness and health (i guess)
+							  Function Game.PARTY ported from cookie clicker. Available as G.PARTY. Type in console G.PARTY=1 for party. : )
+							  Test: new main menu
+							  Legacy tab rebuilt. You can't switch pages to see new achievements for new race until you do ??? achievement.
+							  Stats are divided into categories
+							  Now ascensions stat will show after first ascension.
+							  After first footage of dead forest a stat related to it will be displayed.
+							  After getting first Victory Point from Trials you will see Victory points stat.
+							    Changed the way of loading a mod. That was necesarry. Sorry guys if you lost saves due to that. I may try best
+							  to restore them for you just dm me with details.
+							  Rewritten can't when paused function.
+							  Homelessness messages appear less often.
+							  ---------------------
+							  Due to problems custom top bar is disabled. Default one will be seen.
+							  fisher's line fishing mode has been nerfed
+							  made coordination appear later
+							  Added nice quotes for more techs, traits as CC has
+							  Wizard wisdom description changed
+							  Policies shall unlock sooner
+							  Extra happiness per day for first two years increased: 0.27 --> 0.5
+							  -----
+							  Removed Q&A from magix tab
+							  Added some nice quotes for techs, traits as CC has
+							  Ocean-tiles exploring has been nerfed. Now it takes more time to explore them
+							 added two new biomes: chrry blossom and lukewarm ocean
+							 ocean infos are richer
+							  ---------------------------
+							 another shadow achievements now are normally obtainable.
+							 Nerfed family graves. Limit per land increased 40 ---> 45 
+							 Voodoo spirit changes display effect
+							  --------------------
+							  Fixed message filter bug
+							  Now lands of despair achiev is obtainable
+							  Buried trial finished.
+							  -------
+							  Added messge filter!!! You can now toggle off specified categories of messages if you don't want them to be displayed.
+							  " Changing to this mode will cost you " no longer appears on theme changer.
+							  added total land stat to game over popup
+							  also overworld land discovered stat
+							  sickbois say goodbye (legendary trial bug)
+							 Trial special site title now active while trial is active 
+							 special site title while in start new game menu
+							 Nerfed Faithful
+							  fixed game crash for cookieclicker.eu/legacy domain
+				
+							  new civblurb parameter
+							  Added patrons
+							  --------
+							  TIERED DISPLAY CAME BACK
+							  Top bar has been beautified
+							  minor map display fix
+							  new stat for Legacy tab
+							Special popup on game over(moment when all of your people die)
+							  --------
+					
+					"Cruel goal" now works fine.
+					Tiny change: bolded name of civilization on gameover message
+Two less meaning fixes performed.
+					Removed dark artisan of new year from the game
+			added artisan of christmas		  					  
+		------------------------------------------
+		
+		
+		
+				Nerfed Wanderer and Scout. You can hire one wanderer every 2 researches till scouting unlock. Upon scouting the limit increases from 2 to 3!
+				Scout can be hired 1 per 8 researches
+				New techs
+				New tech tab! Thanks to Hyortesu for helping me : )
+				Due to that the showtiers mode is gone. Wep that was one of biggest spoilers so far. Sorry Heritage mod ;) 
+				mausoleum 10/10 display name changed to The great Mausoleum
+				achievement revamp:
+				added shadow, seasonal achievements
+				Also: Now some of achievements  display completed or locked. Those are 'once and done' achievements.
+				8 shadow achievements, 2 new normal achievements
+				9 new quotes for new day
+		Democration achievement new bonus. Instant policy unlock at new run start.
+		Changed display of Tabs(colored names)
+		Changes related to earlygame. Policies and territory tab contents are no longer instantly unlockable(instantly at start of game)		
+		More of improvs for xmas			
+		--------------------------			
+					
+					
+				You can only build one storage per one day
+				improved christmas and happy new year.
+				
+							  
+							  
+							  --------------------------------------------------------------------------------
+	Faithful
+	Halloween seasonals
+	new techz
+	happiness nerf	
+	Some of the updates. Part 1/3
+	
+	I know game gets harder but more enjoyable as I noticed from my researches.
+	Message "on adopted trait" is now improved. If trait is in knowledge category you'll see people adopted knowledge. Similarily to other trait categories
+	to inspect discovered tiles now you will need tile inspection technology. Requires: plant lore, hunting, scouting and intuition.
+	now after 1st reset at new game window you will see ? informing that you may get more starting bonuses by completing achievements
+	paradise portal reworked
+	Pocket trial: Shop changes
+	starting percentage of exploring tile changed: 10% ---> <9% , 11%> including decimals
+	added support for: 48x48 icons, 72x72 icons, 48x24 icons.
+	widerIcon:[a,b] for 48x24 , twoxtwoIcon:[a,b] for 48x48, threexthreeIcon:[a,b] for 72x72
+	tool rafinery
+	improved display of policy category
+	Trials with each year bonuses now correlate with time measure techs. You won't see quote like during this year.
+	mo herb at start : 250 --> 300
+	3rd tier of univer
+	6 new DTs & GTs (12 traits, you can get all 6 gts or 6 dts plus 3 new religious traits)
+	optimized some things
+	Some of the updates Part 2/3
+							  ------------------
+	
+	More texts for There is nothing to research
+	Paradise portal will be reworked next update
+	druidism etc
+	lodge primary buff 5 ---> 6
+	guild quarters change: now one mode affects both types of guard
+	Added: deepmining deepquarrying (add extra ores content) (furnaces mode remaining)
+	plain island portal icon fix (after stage 2/2 displays 1/2)
+	to test if people will like it: time measuring will unlock more details about time
+	lodges and guild quarters modes now have icons
+	some icon changes
+	wild corpses added , new guardian type
+	thief hunter no longer have message saying that he got wounded. Now each accident with guards will be summarized at the end of year/century with: Soldiers defeats stat
+	get some extra health percents with handwashing techs
+	-----
+	improved goods display
+	Fixed world map bug
+	deving a new trial -Pocket , mamuun trial (NOT TESTED, may be impossible for some moment)
+	removed 18 resources (dyes,cacti spikez and sunflower seedz)
+	wooden theme(overlay from unused by Orteil files)
+	Now Magix enters Late beta stage.
+	fixed descriptions for 2 techs
+	backshift at farms and fertile bushes techs buffed due to new housing. Now it will increase efficiency of hovel with garden as well
+	new messages for can't when paused
+	balance changes: faith I cost for paradise temple final step cost lowered: 1000 ---> 725
+	Obtaining pantheon key now provides 25 spirituality II and 15 authority II
+	Added 2nd level of Beyond the edge that will make you have even more land. It will also add 2 education II and 20 wisdom II upon obtain due to suffer that pushing beyond the world edge causes
+	outstanders changes: first limit per decreased 40k --> 38k , 2nd limit per: 28k --> 26,5k . Now every 4th outstander provides 1 extra Wisdom II
+	Moved Dark wormhole, heavy warehouse to new category due to land they use
+	New Underworld housing! -> fort
+	mirror world!. It only copies terrain. does not double goods but requires bunch of essences to keep it stable.
+	If you choose seraphin now it will play different SFX, added sfx that plays if you change amount of unit you wish to buy.
+	Nerfed Unhappy. Now people present cruel behaviours if population will reach 125 or more instead of 50. And thieves won\'t spawn there.
+	
+	
+	-----------------------------------------------------
+	new biome that is currently most unfriendly biome to the player(very rare due to difficulty)
+	added new types of rocky substrate. Some type will appear and replace default one depending on biome.
+	new goods(well... bads mostly for new biome)
+	also new biome warmer than desert but providing more Various stones
+	Changed balance between normal stones and various stones
+	hartar servant has own icon, buffed artistic gray cells, added 2 new techs
+	Added wonders for unadded yet trials. (less work for later)
+	fixed cultural balance and improved this trial(now chance to get a cultural relic which will bring balance up but still a chance to find a relic that will lower it(chance is very low for that))
+	policy switching now is sounded, wonder completion is sounded as well, ascending got sounded as well
+	coded new property for wonders. (not every wonder means ascension which will be used in later updates)
+	Obtaining new tech now has 4 more sounds.(so to hear one of them you have 20% chance after each research obtain)
+	Nerfed year 1. Happiness drops a little bit slower then if year 2 or over will start it will work as it did before.
+	Unhappy trial fix. Decimals should no longer be displayed at its messages
+					-------------------		  
+	improved popups for trials
+	Rebalanced Essence Storages
+	Thanks to Skullyz for redesigning some icons(mostly for redesigning Wizard Towers)
+	Added: new techs(Sleep-speech that unlocks new ability(only if Insight-ly achievement completed))
+	and new policy to control the power of this ability
+	Developed: Cultural and Hunted trials
+	Thieves spawn 20 years later(90 ----> 110). At y90 you will be warned
+	Fixed 0/0 insight gamebreaking bug
+							  
+06 VII 2020
+Unhappy trial available to everyone
+->It is a little tough to develop trials so next update won't add any new early game, whatsoever just it will be trial development update
+->Improved legacy tab popup
+	>>Now it will display how many times we completed a trial
+	>>And how many Victory points,Techs and traits we currently own
+->Attempted to add speed x15 button but it failed
+-> Fixed backshift research(unique for market mod!)
+-> New early game tech: Aiming
+	>>Required to make spear and bow hunting modes have its full efficiency
+-> Now figured out how to make a dialogue popups so JS alert,prompts will be gone in not this but in next update
+-> New theme! (unlockable for completing Row 3)
+-> Nerfed a little bit Crossbow hunting mode for Hunter
+Now I will post a mod update 1nce per 17 instead of 14 days due to school holidays I have(I want to rest)
+Also in this month Magix will have its 1st anniversary.
+Anyway have fun :)
+							  
+19 VI 2020
+Big update 5!
+Trends
+->Trends define what people rather more gathering
+	>>Two subtypes:
+		>>First which is as tech you can pick the trend for people
+		>>Second which is as trait and can stack with tech trend and there you have no choice what it will be
+		>>So some units can obtain 2 trends
+		>>Some trend can be obtained at early game stage while others at late game
+	>>Trends doesn't decrease income of other resource unit can gather
+Figured out how to make custom message types so:
+->Tutorial messages now have dark blue background to be more noticeable
+->Emblem popups have yellow background
+->Digging to the Underworld story messages have magenta background
+Tiny research box change:
+->Research and reroll text is now colored
+Added row 3 achievement bonus
+->Finally if you complete this row you will unlock 5th tech choice pernamently
+	>>...and something extra but as special as the bonus above
+New achievement for Row 3!
+Now middle text that notifies about: completing achievement that doesn't require ascending or wonder and full row completed notifications lasts 3,5 seconds longer on a screen
+Some extra new day lines added
+Expanded tutorial and story!
+	>>Now it will hint you what belief in the afterlife trait will unlock
+	>>And many more
+Changed balance for food(it was causing happiness go to -200% too quickly)
+Attempting to nerf plentiful mode for food and water rations(it skyrockets to +200% happiness)
+	>>Currently power of it is a little bit nerfed(it still can raise up to 200%)
+Fixed Backshift at farms exploit!
+
+16 V 2020
+Pantheon Update
+Added Pantheon
+->12 seraphins
+	>>They boost something but weakens something else at the same time
+->15(really not joking) new achievements!!!
+	>>12 are related to the Trials(they will be added next update)
+->Removed Gather Roses policy
+->5 new religious traits.
+	>>1 leads to unlock Pantheon
+	>>4 (you can get only 1 of them and each one boosts Soothsayers at different rates)
+->Changed the Paradise Portal
+	>>Now while constructing Temple of Heaven you gain a points of this structure
+	>>To activate the Paradise portal you need to get 400 points (300 from steps of wonder and 100 from its final step)
+		>>So in short you have to complete this wonder first. I made it like that to make the temple have some role in the game.
+->Applied a small fix for working after hours penalty(setting prod rates to 2)
+->New changelog! Goodbye old .txt :)
+->Market utilites
+	>>Trade with:Paper,Wheat
+	>>Added the art seller! New separate unit
+->Clay decays 25% faster
+->Sugar cane decays 2,5x as faster
+							  
+1 V 2020
+Big Update 3!
+Yeah third big update in a row! Cannot believe in that. Changes:
+->Revamped and nerfed Sugar cane
+	>>Added new good that will allow gathering sugar cane.
+	>>4 techs out of 23 added upgrade sugar cane farms
+->Removed Beet from the game
+	>>It had only one use: crafting sugar out of it: not worthy even though.
+	>>Tech that unlocks Beet farms has been replaced with tech that boosts wells
+	>>Removed beet farms from the game
+->Added in total:
+	>>1 new achievement
+	>>23 techs
+	>>2 traits
+	>>2 new units
+->New way to bury people:
+	>>Urns: Unlockable by gaining some techs.
+		>>1 urn takes 0.25 burial spot so 1 burial spot can store 4 urns
+		>>Corpse decay can affect Urns when tech related to that will be obtained
+	>>Unlocking crematoriums disables ritual necrophagy effect!
+->1 new biome added to the world map
+	>>Find a Glacier. It is one of the rare biomes too
+		>>Contains bunch of ice and sometimes you may find seals and freshwater fishes there
+->Added support to other people's mods
+	<>NOTE:I gotta support only Dashnet discord mods. If you are modder and have own mod and wanna me support your mod DM me and manage your mod to get pinned. 
+	I accept mods that are like Market (this mod adds 1 neat mechanic called trading)
+	>>Supported mods:
+		>>Bruno Supremo's Market Mod
+			>>4 techs out of 23 added are related to market mod and will only be obtainable while mod is installed
+			>>Items from Magix can be used in trading
+				>>Especially trading with essences
+			>>If you dare playing Magix and Market Mod without installing my utilities(URL to paste is below) game will on-purpose crash!
+			>>Here is the URL: https://cdn.jsdelivr.net/gh/MagixModLegacy/Magix@master/MagixUtilsForMarketA0.js
+				>>This link must be pasted below link to the Market mod!
+			>>I know that with no each item from Magix you can trade but it will change in next updates.
+		>>Laws Of Food
+			>>3 new policies that will let you decide if your people can/can't eat food from Magix
+			>>Policies cost from whole LoF and LoFFree (and from Market too) now can have their cost with Influence II upon policy revaluation
+->Probably in next update a achievement for 50 traits will be added to the game.
+->Increased chances for Moderation and Caretaking(they now have bigger chance to be adopted by your tribe)
+Enjoy!
+
+17 IV 2020
+Nerfs for Big Update 2!
+->Nerfed florists
+->Nerfed crocodile (a one of goods for new biome)
+->Magic adept:
+	>>Required Essences amount for this increased
+		1,000,000 -----------> 2,100,000
+							  
+16 IV 2020
+Big Update 2!
+-> World map changes:
+	>>2 new biomes:
+		>>Lavender fields
+		>>Swamplands
+	>>New biomes have unique goods. These are rare biomes so don't worry if nowhere your scouts will find Lavender Fields or Swamplands.
+-> Revamped Florist
+	>>Now flowers that he gathers are depending on the biome
+	>>Gather roses policy will be replaced with other one ASAP due to it.
+->Added Dark wormhole!
+	>>Provides A TON of Burial Spots
+	>>Can obtain unique ability
+->Added unit that merges hunters and fishers
+->Bunch of new techs
+->New wonder!
+	>>And achievement for ascending by it.
+->2 new achievements that do not require any wonder to get and any ascension.
+->Apprentice required number of owned techs decreased
+	>>150 -----> 100
+	>>But added an achievement for 200 techs
+->Thieves now seriously steal and wound people
+Enjoy ;)
+							  
+3 IV 2020
+Forgot to decrease limit per 1 Paradise housing
+->This limit is decreased by 4 times(limit per land is divided by ~4 )
+							  
+2 IV 2020
+Life has its theme update :)
+-> New unlockable feature for the game: Theme Changer!
+	>>Coming soon I will add achievements that will unlock more themes
+	>>There are some issues:
+		>>If you change themes like : Blue -> Green -> Blue you need to refresh the page to see the last choice(blue).
+		>>And after restart/ascension theme changer switches do default(its policy mode switches to default)
+		>>But most important is that it works as it is supposed to do.
+-> Added "Don't forget to backup your save!" popup
+-> Rewards for 100% completing a one of the rows(unique reward for each one)
+-> 4 new achievements
+	>>2 for completing fully a row
+	>>2 that are required to get extra rewards
+-> Added new sound for obtaining an Emblem
+-> Added few techs that increase Spirituality II and Authority II and in extra changes visual look of some units
+-> Concrete making shack got its own icon
+Have fun :)
+
+| | |
+v v v An april fools 2020 update							  
+                                                          
+ 1 IV 2020
+-> Optimized the game so Commodore 64 can handle game with Magix expansion
+-> Added alpha PvP mode
+-> Now gatherer can say "bruh"
+-> Oofing population
+-> The new virus appears in Underworld
+-> Dreamers now know what does "meme" mean
+	>> Also others know
+-> Added technology that
+	>> Makes WWIII appear in game
+-> Improved icons!
+;-;
+-> People now wear buckets
+	>>It is in fashion don't ask why :)
+-> Ducks introduced to the game
+-> Influence shows your power! (works like your health for PvP)
+-> Renamed Magix to Magic to make it more recognizible (?)                                                         
+                                                          
+ 26 III 2020
+ Tiny change
+ -> Alpha! dissapeared.
+  >>In place of blue Alpha! text now you should see gray Beta! text                                                          
+                                                          
+23 III 2020
+Big update!
+-> 4 new achievements
+ >> They do not need ANY wonder and you don't have to ASCEND to get them
+ >> These are for having bunch of people or requires some number of unlocked technologies
+ >> Coming soon I will add special bonuses for completing an achievement row. Unique for each one.
+-> 1 new God's trait related to Essence farms
+-> Bunch of new neat technologies
+ >> That can now change visual look of units they are related to
+ >> Some of new technologies are unique for Moderation or for Caretaking paths
+-> Added oil
+ >> Currently has no use
+-> Attempted to make guilds & lodges work but... it failed
+-> Changed icon for Fisher's line mode 
+ >> From stone weapons icon to fishing hook icon
+-> Added new cultural unit
+-> Now your people can set up housing at Paradise!
+ >> From treehouses to big hardened houses
+-> Policies related to florists are now hidden till player won't unlock Florist
+ >> Earlier before obtaining Mausoleum achievement you could see it(now you will see after first ascension from Mausoleum)
+                                                          
+ 13 III 2020
+ Update of Sounds and Mausoleum!
+ ->Mausoleum can evolve up.
+  >> Can you reach level 10?
+  >> Ascendning by Mausoleum at its final stage grants massive fast tick bonus(new achievement)
+  >> At each stage building the Mausoleum gets more and more expensive(not at each step!)
+  >> Each stage has its unique icon.
+ -> Sounds!
+  >> Currently sound has been implemented to:
+   >> Techs
+   >> Traits
+   >> at Game Over [0 population]
+  >> You can toggle these SFX off by policies tab (free in costs policy)
+ -> At start game screen now you will see note that says magix has been loaded.
+ 
+                                                          
+ 7 III 2020
+ "Magical soil" update
+ -> Now if some tech/trait says that some unit for example Potter will become useless you will see its icon slashed and gizmos that access unit's modes is disabled/hidden
+ -> Weaving III and Sewing II.
+  >> Clothier gets unique icon once obtaining Sewing II.(visual change)
+  >> Allows to sew clothing that decays slower than basic clothes. Its icon has 4 random colour version
+ -> Essence farms
+  >> 7 types of farms (because you have 7 type of essences (not counting Mana))
+  >> Gathers essence they are supposed to gain but keep on mind that they still need essence they produce.
+ -> Fixed bug that was causing Hunter and Fisher not gathering at Net and Crossbow modes
+ -> E.o.t.m. makes now Wisdom and Flower rituals disabled and locked until obtained Ritualism II technology.
+  >> After unlocking these two will require Faith II instead of Faith I.
+  >> Wisdom ritual replaces its icon(Wisdom I icon) with Wisdom II icon (from Wisdom I) 
+ -> Nerfed penalty from working after hours (it was too big. If need I will nerf it even more. Just give me feedback :) )
+  -> Did small rename.
+  >> And improved icons of 2 techs
+ Enjoy :D
+ 
+                                                          
+ 26 II 2020
+ "The world at the bottom of other worlds" Update
+ -> Third world(4th in total)
+  >> Unlocking this world is more complicated than it was with Paradise for instance
+  >> Has lore.
+ -> 20 in total new traits
+  >> 18 Devil's traits
+   >> All of them (except one!) are power-downs
+   >> You will get only 6 out of 18 to make game still playable and enjoyable
+   >> Without them you won't be able to continue your adventure.
+   >> These are related to new world
+  -> New essentials
+   >> Tiered up Insight, Culture, Faith, Influence obtainable after obtaining Evolution of the Minds trait
+   >> To obtain them you may use converters
+   >> New essentials will be required for further researches.
+   -> 1 new achievement related to new world
+   >>Has unique bonus but requires all 3 achievements added in WonderFULL update
+   >>Having this and Deadly, revenantic achievement will allow you unlocking the new world in the next run
+  -> Some new techs
+  
+ 12 II 2020
+ A step further update
+ -> Moderation and Caretaking paths now lead to more things
+  >>Caretaking leads to make people craft manufacture units
+  >>Moderation leads to make people build factories
+ ->2 new Techs that will unlock Manufacture Units / Factories
+  >>Unlocks 4 units 2 for each of 2 paths.
+  >>If you have Hut of potters a potter will not work anymore
+   >>But no worry Hut of has all four modes active and produces more but it is more expensive
+   >>Production can be controlled from policies tab
+ -> Two new God's traits
+ -> New resource in Gear category required to build up factories. Can be crafted by Blacksmiths.
+ -> One new non God's trait
+ -> Four new 2-path techs
+  >> These techs are giving you boost that depends on path your people have chosen
+   >> For instance furnaces: if moderation they will work 20% better , while in caretaking they will work just 10% better.
+                                                          
+04 II 2020
+How to get normal water? update
+-> Water filters added into the game
+ >>Cloudy water filters that converts Cloudy water and allows you to gather cloud
+ >>Normal that cleans muddy water from dirt and gathers clean water for you
+-> Few new techs that can upgrade efficiency of Filters
+-> It is obtainable after you get Mausoleum Achievement
+Anyway have fun!
+                                                          
+31 I 2020
+ WonderFULL update!
+ -> Three new wonders
+  >> You can unlock only ONE of them.
+   >> About it which one you will unlock traits will decide.
+  >> Wonders have their techs that make a wonder generate that what it should generate(planned)
+  >> Three new wonders means three new achievements which provide more special bonuses like +6 starting insight and similar
+   >> 6 because you can research for 1 and then buy a tech for max 5 insight
+ -> Battling thieves now autoobtain at the moment (a little later) in fact when thieves will start to spawn.
+ -> Used up general trait category.
+  >> Now CoM and JoE may lead to Caretaking and Moderation.
+   >> These two traits are a official declaration of path your people want or wish to go.
+ 
+                                                          
+23 I 2020
+ Cheves & Thieves update Part II: Thieves
+ -> Made Mausoleum achievement useful!
+  >> Florists, Thought sharers and main part of Magix... Magic will be available after you get Mausoleum achievement for the first time
+ -> Merged resources
+  >>Granite , Diorite, Andesite merged into Various stones
+  >>Cut Granite, Cut Diorite, Cut Andesite merged into Cut Various Stones
+  >>Bandage, Triangular Bandage, Plaster merged into First Aid Things
+   >> All merges were done because of uselessness of subparts and it was causing using a little too much CPU power
+ -> Fixed bug with duplicating Magix:About tab
+ -> Thieves!
+  >> Thieves spawn at year 90 and later
+  >> They randomly steal your building materials, food
+  >> They have a chance to wound a person or even kill(currently not but they will coming soon)
+   >> But adult have "one of million" (becuase adults amount is much bigger than thieves) chance to neutralize a thief
+  >> You can hire a thief hunter to neutralize thieves
+ -> Slightly buffed new units from Part I of Cheves & Thieves update(except chef)
+ -> New early game mechanic: after year 30 tools will start to decay.
+  
+ 16 I 2020
+ Cheves & Thieves update Part I: Cheves
+ -> Cheves are workers acknowledge at cooking.
+ -> 1 new trait
+  >> Unit has modes which depends what chef will use to craft a meal.
+ -> Added new resource: Meals crafted by cheves.
+  >> It is new type of food. Makes people happier at bigger rate than other food.
+  >> Spoils and decays like a normal food.
+ -> Removed 6 resources. All hidden. They were like... first aid things and... (removed bandages, triangular bandages, plasters. Yeah they were 3 separated resources and all of them was part of another one so removed it.
+ Same fix with paper)
+ -> Hid Archaic wizard unit. Bye buddy.
+ -> Preparing to adding Thieves
+ -> Added wheat
+   >>Wheat can be gathered at farm then converted into flour.
+   >>Bakeries needs to be fueled by logs and crafts Bread out of flour.
+     >>Bread was existing in vanilla (data.js) but was unobtainable like concrete and glass.
+          
+ 03 I 2020
+Tiny patch
+-> Added warning messages as test and thanks for playing one
+-> Hid the New year Eve's seasonal content until end of 2020                                                         
+
+31 XII 2019
+Fixes and improvements
+-> Fixed issue with infinitely repeating message upon getting an Portal Emblem
+ >>Instead it will show only once and only when you will obtain 1 and if you will leave game and at each enter of game at same time when you have Welcome Back as reminder of using Emblem to unlock next technologies
+-> Hid unnecesary subtypes of paper and first aid things
+Since this update i am NOT developing mod by myself. I am doing it with people from Dashnet Forums who wanted to make this mod better thanks to them.
+Ik 1 day before new year but... HAPPY NEW YEAR!
+
+27 XII 2019
+Revenant features
+-> Seasonal content for New Year Eve available since 27th December till 4th January
+-> 3rd wonder unlocked while wild corpses will appear at the world and providing massive amount of burial spots
+-> 1 improving papercrafting tech
+-> 2 technologies for the wonder
+-> 1 new EARNABLE achievement
+-> Achievement for building up Temple of Heaven got earnable too!
+Have fun
+
+23 XII 2019
+-> Added combat potions
+   >> Soldiers etc are for 2020
+-> First seasonal content will be available at 29th December till 4th January 2020
+   >> New year's eve
+   >> If you will see after 4th January 2020 content from Eve ofc you will as long as you don't ascend / start new game . Before ascending / doing game will lose its effects till next year
+-> 2 new traits which may add 1 , 2 or more % to health of your population
+   >> The trait you get depends what you got at early game stage. Dependency is between culture of moderation and joy of eating
+-> Added concoctions as new ingredients of potions
+-> Stands for crafting these potions with chance to cause accident to its workers
+
+10 XII 2019
+Gotta blast underground!
+-> Explosive mines added to the game
+   >>Explosive mines uses TNT(light explosives) gathers more, has own upkeep but has bigger chance to waste/collapse wounding their miners.
+-> Since some research each mode of mine / plain island mine allows to gather Sulfur used to craft currently Light explosives.
+-> Light explosives are used to make Explosive mine work
+-> Added third type of artisan
+-> Figured out text coloring so that means that trait names , descriptions of units, technologies, traits can be coloured in all >12 Million colours (RGB)
+   >>So some description and unit names etc. gained colours
+-> Paper-crafting shacks are now welcome in Paradise
+   >>At the cost of Industry points of course
+-> Trait unlocking seasonal content like halloween, xmas(sorry no xmas this year but New year's eve of course will be added),Valentine's day
+
+28 XI 2019
+Paradise constructions part 2 and last one of this update
+-> Constructions which can only be built in Paradise at the cost of Industry Points.
+   >>They are same like their from Mortal World but have their own textures. Soon may do really have little bit more possibilites than normal ones.
+-> Implemented orchards (currently ambrosium one) from where you gather Ambrosium leaves used to craft Ambrosium shard with help of many additional ingredients
+-> Redesigned Well of mana texture and improved a little Brick house texture
+-> 1 new trait, some new researches
+-> Book storage works now making Libraries start being useful
+-> Alchemy zone can be made out of Paradise land 
+
+22 XI 2019
+Paradise constructions part 1
+-> Added new storage constructions
+-> Added new type of water
+-> God's traits
+-> Industry points(prep for further updates)
+-> Possibility to gather science
+
+10 XI 2019
+Small utility update.
+->Now alcohol(currently wine only) finally may make people drunken
+->Obtaining an Emblem will make you see message on messages box. (some kind of storyline) (bugged because it repeats as long as you will have emblems amount <1)
+->n people/person fell drunk and got better message at message box
+->drunken person can die
+
+9 XI 2019 Big changes caused by Books & Politics update!
+->Made wizard become unlockable after getting Wizard wisdom tech. Before getting it you will own Archaic one
+->Changes at costs of some researches.
+->5 new researches & units, 1 new trait & policy, bunch of new resources.
+->Added modes for Architects but why does not they build brickhouses and blockhouses i dunno.
+->Changed link to mod.
+->Essence storages tech now works causing amount of mana and essences limited.
+->Bigger usage for Ink and Paper. Books , notes(not that musical one yet), lodge of writers and library to store books
+->Note: If you are playing in debug mode I am NOT responsible for any of bugs caused by it.
+->Bug with 0/0 insight caused by wizards is unfixable.
+->Changelog will be now here instead at Magix about tab.
+
+31 X 2019: Second portal to second world. Feel lights everywhere
+->Attempting fixing wizard wisdom bug.
+->Changes at power of Wizard Complex.
+->Added few more researches. They are for alchemy and new world.
+->New ingredients which can be made. To unlock them just buy some researches that may unlock them for you.
+->Migrated image sheet from imgur to other website which allows for sharing image sheet for content like this mod.
+
+25 X 2019: Improved alchemy by ingredient crafting tech.
+->Failed to fix bug with wisdom going below 100 caused by wizards.
+->Rest of effects which prospecting II and quarrying II provides now work ingame.
+->Improved juicy expertise trait effect and increased its cost a little bit (from 5k juice to 6.5k).
+
+22 X 2019: Added policy which will decide how long will be education cycle for alchemists.
+->Added new trait which requires culture of the afterlife to occur.
+->Small improvements to vanilla things(platinum and nickel ores).
+
+October 2019: 2nd wonder. Revenants trait - the first long term trait
+->Brews are available.
+->New culture source.
+->Vanilla improvements(armor , weapon blacksmithery).
+->Papercrafting added.
+
+September 2019: Juicery, farms, ink, instructors, alchemists added<div>'+
+->Thoughts sharer.
+->Florist. Two new early game units
+
+july - august 2019 Magix starts being developed

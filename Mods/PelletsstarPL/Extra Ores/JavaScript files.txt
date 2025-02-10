@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PelletsstarPL/Extra%20Ores/Files/EXtraOresFix.js
+https://raw.githubusercontent.com/Stake2/NeverEnding_Legacy/refs/heads/main/Mods/PelletsstarPL/Extra%20Ores/Files/EXtraOres.js

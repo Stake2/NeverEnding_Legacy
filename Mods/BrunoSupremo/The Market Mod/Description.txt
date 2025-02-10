@@ -1,0 +1,21 @@
+Developer:
+BrunoSupremo
+
+Makes it where you can sell and buy things
+
+NOTE:
+This is only part of the mod.
+The full link to the repository of the mod on Github is here:
+https://github.com/BrunoSupremo/market_mod
+
+(There you can find an image used in the mod and also the Github page of the author) 
+
+---
+
+How to install the mod?
+
+To install The Market Mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://brunosupremo.github.io/market_mod/market_mod.js

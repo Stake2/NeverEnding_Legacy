@@ -1,0 +1,31 @@
+Developers:
+Rubic (Paradoxrevolver)
+Fancy
+Torcado
+
+Fixer:
+PelletsstarPL
+
+This mod makes it possible to create thots.
+
+Thots are an improved version of Dreamers.
+
+Original version:
+https://github.com/paradoxrevolver/neverending-legacy-mods
+https://raw.githubusercontent.com/paradoxrevolver/neverending-legacy-mods/master/thot.js
+
+Local folder:
+"Original"
+
+A fixed version by PelletsstarPL is here:
+https://file.garden/Xbm-ilapeDSxWf1b/thotFixed.js
+
+---
+
+How to install the mod?
+
+To install the mod, you need to paste the mod link into the mod box.
+
+1. Click the blue button on the top right that says in white lettering "Use Mods".
+2. Under the line of code saying "data.js" put:
+https://file.garden/Xbm-ilapeDSxWf1b/thotFixed.js

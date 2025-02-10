@@ -1,0 +1,11 @@
+Github repository:
+https://github.com/Generatoror/hello-world/
+
+Fandom:
+https://legacygame.fandom.com/wiki/Cookie_mod
+
+Mod category:
+General
+
+jsDelivr:
+https://cdn.jsdelivr.net/gh/Generatoror/hello-world@master/cookieLegacy.js
