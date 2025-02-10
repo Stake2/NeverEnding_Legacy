@@ -31,7 +31,7 @@ This offline version of Magix...
 
 ## The game mods
 In the [Mods](https://github.com/Stake2/NeverEnding_Legacy/tree/main/Mods) folder, you can find a database that I created with mods people have created for the game around the Internet.<br>
-This folder also functions as an archive for the game mods, as the links within the mod JavaScript files point to the mod files stored in this repository, rather than to external sources.
+This folder also acts as an archive for the game mods, as the links within the mod JavaScript files point to the mod files stored in this repository, rather than to external sources.
 
 The [Authors.json](https://github.com/Stake2/NeverEnding_Legacy/blob/main/Mods/Authors.json) file contains a JSON dictionary with all the mod authors that I found on the [List of Mods](https://legacygame.fandom.com/wiki/List_of_Mods) page on the wiki of the game.<br>
 It contains the number of authors and also dictionaries for every author, their Github profiles, social networks, and mod dictionaries.<br>
