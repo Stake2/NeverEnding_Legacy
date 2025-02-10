@@ -7,7 +7,9 @@ Or using [@Plasma4](https://github.com/plasma4)'s mirror along with the Magix mo
 https://plasma4.github.io/magix-fix/
 
 ## The game mods
-In the [Mods](https://github.com/Stake2/NeverEnding_Legacy/tree/main/Mods) folder, you can find a database that I created with mods people have created for the game around the Internet.<br>
+In the Mods folder (you are inside it right now), you can find a database that I created with mods people have created for the game around the Internet.<br>
+This folder also acts as an archive for the game mods, as the links within the mod JavaScript files point to the mod files stored in this repository, rather than to external sources.
+
 The [Authors.json](https://github.com/Stake2/NeverEnding_Legacy/blob/main/Mods/Authors.json) file contains a JSON dictionary with all the mod authors that I found on the [List of Mods](https://legacygame.fandom.com/wiki/List_of_Mods) page on the wiki of the game.<br>
 It contains the number of authors and also dictionaries for every author, their Github profiles, social networks, and mod dictionaries.<br>
 
@@ -28,15 +30,15 @@ Only load mods from sources you trust!
 ```
 The "data.js" text inside the list of mods is the game content that is loaded.<br>
 In the mods folder, there is a file called [Mods to copy.txt](https://github.com/Stake2/NeverEnding_Legacy/blob/main/Mods/Mods%20to%20copy.txt), which is a list of mods that do not interfere too much in the game performance, the file will help you install the mods.<br>
-Every mod dictionary contains a "Replaces data.js" key, its default value is False, but for overhaul mods, it is True.<br>
-That is because overhaul mods change the game a lot, and you need to remove the "data.js" line and add the mod, such as the [Magix](https://github.com/Stake2/NeverEnding_Legacy/tree/main/Mods/PelletsstarPL/Magix/) and [Homosapient Legacy](https://github.com/Stake2/NeverEnding_Legacy/tree/main/Mods/Chenxing61/Homosapient%20Legacy/) mods.
+Every mod dictionary contains a "Replaces data.js" key, its default value is False, but for some overhaul mods, it is True.<br>
+That is because some overhaul mods change the game a lot, and you need to remove the "data.js" line and add the mod links, such as the [Magix](https://github.com/Stake2/NeverEnding_Legacy/tree/main/Mods/PelletsstarPL/Magix/) and [Homosapient Legacy](https://github.com/Stake2/NeverEnding_Legacy/tree/main/Mods/Chenxing61/Homosapient%20Legacy/) mods.
 
 The original list of mods in the game is this one:
 ```
 data.js
 ```
 
-With some mods, you can make it look like this:
+With some mods, you can make it look like this (every line being a mod):
 ```
 data.js
 https://orteil.dashnet.org/legacy/mod.js
@@ -50,7 +52,9 @@ In the mods folder, there are folders for all the mod authors, and inside those 
 Inside the author folders, there are mod folders for each one of their mods, each mod folder contains files to define information about the mod and its JavaScript files, and also a description file to explain the mod and tell you how to install it.<br>
 Most of these descriptions come from the Fandom wiki of the game.<br>
 The mod folders contain a "Files" folder to store the mod files that are going to be used.<br>
-Everyone can make a pull request to add a mod author that they know, or a mod that they saw or created.
+Everyone can make a pull request to add a mod author that they know, or a mod that they saw or created.<br>
+By creating a folder for the new mod author with folders of their mods.<br>
+And I will update the JSON and text files using a Python program that I created for that.
 
 ## Python program
 I used a Python program that I created to manage and create the JSON dictionaries that are inside the mods folder, and to update the files, it is called "NeverEnding_Legacy".<br>
