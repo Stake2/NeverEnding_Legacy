@@ -82,4 +82,4 @@ And I will update the JSON and text files using a Python program that I created 
 ## Python program
 I used a Python program that I created to manage and create the JSON dictionaries that are inside the mods folder, and to update the files, it is called "NeverEnding_Legacy".<br>
 You can find the source code of that program here:<br>
-https://github.com/Stake2/Python/blob/main/Modules/NeverEnding_Legacy/__init__.py
+[NeverEnding_Legacy.py](https://github.com/Stake2/Python/blob/main/Modules/NeverEnding_Legacy/NeverEnding_Legacy/__init__.py)
